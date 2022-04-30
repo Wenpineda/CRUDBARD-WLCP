@@ -1,0 +1,11 @@
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\CRUDBAR-WLCP\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\CRUDBAR-WLCP\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\CRUDBAR-WLCP\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\CRUDBAR-WLCP\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\CRUDBAR-WLCP\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\CRUDBAR-WLCP\CapaNegocio\bin\Debug\System.Data.SqlClient.dll
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\CRUDBAR-WLCP\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\CRUDBAR-WLCP\CapaNegocio\bin\Debug\System.Data.SqlClient.xml
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\CRUDBAR-WLCP\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\CRUDBAR-WLCP\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\CRUDBAR-WLCP\CapaNegocio\obj\Debug\CapaNegocio.pdb
